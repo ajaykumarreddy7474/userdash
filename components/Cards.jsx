@@ -48,7 +48,7 @@ const Cards = () => {
     </div>
     <div className="ml-4">
       <p className="text-sm text-gray-600">Total Requests</p>
-      <p className="text-2xl font-bold">73,232  <span className="text-sm text-red-600"> &#9660; 3.2%</span></p>
+      <p className="text-2xl font-bold">24.57%  <span className="text-sm text-red-600"> &#9660; 3.2%</span></p>
     </div>
     <div>
     </div>

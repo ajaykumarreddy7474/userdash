@@ -14,9 +14,9 @@ const Table = () => {
             </tr>
           </thead>
           <tbody>
-            <TableRow   name="Jane Copper" subject="Maths" date="9th March 2024" status="Completed" role="Owner"  />
-            <TableRow   name="Cody Fisher" subject="Maths" date="9th March 2024"  status="Pending" role="Owner" />
-            <TableRow  name="Ether Howard" subject="Maths" date="9th March 2024" status="Failed" role="Member"  />
+            <TableRow   name="Jane Copper" subject="Physics" date="9th March 2024" status="Completed" role="Owner"  />
+            <TableRow   name="Cody Fisher" subject="Physics" date="9th March 2024"  status="Pending" role="Owner" />
+            <TableRow  name="Ether Howard" subject="Physics" date="9th March 2024" status="Failed" role="Member"  />
            
           </tbody>
         </table>
